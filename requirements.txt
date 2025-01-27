@@ -1,0 +1,9 @@
+qiskit==1.2.4
+qiskit-aer==0.16.0
+qiskit-ibm-runtime==0.12.1
+pennylane==0.34.0
+matplotlib==3.7.1
+numpy==1.24.4
+pandas==2.1.1
+seaborn==0.12.2
+scipy==1.11.2
